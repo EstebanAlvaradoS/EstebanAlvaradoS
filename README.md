@@ -1,10 +1,8 @@
-
 <h1 align="center">Hi , I'm Esteban Alvarado<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px ></picture><h3>About me</h3>
  
-
 <img align="right" style="width:15rem; height:auto" src="Yop.png"/>
 <h5>I am a software engineering student in my last semester. I really like computers and I want to specialize in
  product solutions to improve the personal and business environment with technological tools.</h5>
@@ -16,7 +14,8 @@ I am currently learning 📖
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></li>
  
  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></li>
- <br><br>
+ <br>
+ 
  My hobbis are
  <br><br>
    <ul>
