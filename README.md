@@ -1,17 +1,35 @@
 
 <h1 align="center">Hi , I'm Esteban Alvarado<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-I am a software engineering student. I really like computers and I want to specialize in product solutions to improve a personal and business environment with technological tools. 
+<img align="right" style="width:15rem; height:auto" src="Yop.png"/>
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px ><h3>About me</h3></picture> 
+ 
 
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
+<h5>I am a software engineering student in my last semester. I really like computers and I want to specialize in
+ product solutions to improve the personal and business environment with technological tools.</h5>
+<br><br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+    
+
+<h5><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+I am currently learning 📖
+ <br><br>
+   <ul>
+     <li> React</li>
+     <li> Angular</li>
+   </ul>
+ <br>
+ My hobbis are
+ <br><br>
+   <ul>
+    <li> Play video games 🎮</li>
+    <li> Read self-help book 📚 </li>
+    <li> Do exercise 🥋</li>
+    <li> learn about hardware 💻🖥</li>
+  </ul>
+ </h5>                 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
     
 - **Front-End Development**:
 
@@ -49,4 +67,4 @@ I am a software engineering student. I really like computers and I want to speci
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
  
-<br>
+
