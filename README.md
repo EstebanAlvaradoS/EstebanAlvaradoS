@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Esteban Alvarado<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px ></picture><h3>About me</h3>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px ></picture><h3>About me</h3>
  
 
 <img align="right" style="width:15rem; height:auto" src="Yop.png"/>
@@ -13,11 +13,10 @@
 <h5>
 I am currently learning 📖
  <br><br>
-   <ul>
-     <li> React</li>
-     <li> Angular</li>
-   </ul>
- <br>
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></li>
+ 
+ <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></li>
+ <br><br>
  My hobbis are
  <br><br>
    <ul>
@@ -27,6 +26,7 @@ I am currently learning 📖
     <li> learn about hardware 💻🖥</li>
   </ul>
  </h5> 
+ 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
