@@ -3,7 +3,7 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px ></picture><h3>About me</h3>
  
-<img align="right" style="width:15rem; height:auto" src="Yop.png"/>
+
 <h5>I am a software engineering student in my last semester. I really like computers and I want to specialize in
  product solutions to improve the personal and business environment with technological tools.</h5>
 <br><br>
